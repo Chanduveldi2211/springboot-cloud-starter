@@ -58,7 +58,7 @@
 
 ```bash
 # Use as template
-git clone https://github.com/Chanduveldi2211/springboot-cloud-starter.git my-service
+git clone https://github.com/Pcveldi22/springboot-cloud-starter.git my-service
 cd my-service
 
 # Start dependencies
@@ -114,4 +114,4 @@ Build → Unit Tests → Integration Tests → SonarQube → Docker Build → Pu
 
 MIT License — free to use as a base for your projects.
 
-<p align="center">Made with ❤️ by <a href="https://github.com/Chanduveldi2211">Veldi Purna Chandu</a> | Senior Software Engineer</p>
+<p align="center">Made with ❤️ by <a href="https://github.com/Pcveldi22">Pc Veldi</a> | Senior Software Engineer</p>
